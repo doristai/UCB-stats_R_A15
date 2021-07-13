@@ -18,7 +18,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 ### Multiple Linear Regression for Predicting MPG 
 
-Multiple_linear_regression_summary
+**Multiple_linear_regression_summary**
 <img width="456" alt="Multiple_linear_regression_summary" src="https://user-images.githubusercontent.com/70616488/125386942-007dcd00-e352-11eb-9c9f-88115093678b.png">
 
 - **Vehicle Length** and **Ground Clearance** are the most significant variables and show non-random effect on the MPG of the MechaCar. 
@@ -34,9 +34,11 @@ Multiple_linear_regression_summary
 
 ### Summary Statistics on Suspension Coils 
     
-total_summary<img width="336" alt="total_summary" src="https://user-images.githubusercontent.com/70616488/125387450-cd880900-e352-11eb-8560-8b505a75403c.png">
+**Total Summary**
+<img width="336" alt="total_summary" src="https://user-images.githubusercontent.com/70616488/125387450-cd880900-e352-11eb-8560-8b505a75403c.png">
 
-lots_summary<img width="492" alt="lots_summary" src="https://user-images.githubusercontent.com/70616488/125387383-aaf5f000-e352-11eb-949c-ac95fcc0f8a7.png">
+**Lots Summary**
+<img width="492" alt="lots_summary" src="https://user-images.githubusercontent.com/70616488/125387383-aaf5f000-e352-11eb-949c-ac95fcc0f8a7.png">
 
 
 - The overall variance is under 100 psi and achieves specifications. But there is a problem with one of the individual lots. 
@@ -52,7 +54,8 @@ lots_summary<img width="492" alt="lots_summary" src="https://user-images.githubu
 - Also, the p-value is higher than the significant level which we fails to reject the null hypothesis. 
 
 
-summary_of_lot<img width="396" alt="summary_of_lot" src="https://user-images.githubusercontent.com/70616488/125387401-b3e6c180-e352-11eb-9a97-edd288d574f2.png">
+**Summary of Lot**
+<img width="396" alt="summary_of_lot" src="https://user-images.githubusercontent.com/70616488/125387401-b3e6c180-e352-11eb-9a97-edd288d574f2.png">
 
 #### Lot 1 
 - p-value = 1 --> fails to reject the null hypothesis 
@@ -76,7 +79,7 @@ Many factors should be taken into the account during evaluation of the car for p
 
 #### Metric to Test
 
-- Narrow doen the test to focus on MechaCar's carrying and space capacity in 3-D space (e.g. cm<sup>3<sup>, in comparison to other competitors)
+- Narrow doen the test to focus on MechaCar's carrying and space capacity in 3-D space (e.g. cm<sup>3</sup>, in comparison to other competitors)
 
 #### Null and Alternative Hypothesis 
 
