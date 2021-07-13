@@ -28,16 +28,14 @@ Multiple_linear_regression_summary
 
     - The intersecpt is also statistically significant which have a strong impact on the MPG 
 
-- Due to the summarised p-value (5.35 x 10<sup>-11<sup>), 
+- Due to the summarised p-value (5.35 x 10<sup>-11<sup>/), 
     the slope of the linear model connot be considered as zero. The p-value is lower than the extreme level of sigficance. Hence, the null hypothesis is rejected. There is a non-random relationship between our variables and miles per gallon.
 
 - The r-squared value is 0.7149 indicates that the model is 71% accurate. (It can probably do better). This shows that the model does predict the mpg of the MechaCar prototype and its related effectiveness.
 
 ### Summary Statistics on Suspension Coils 
-total_summary
     <img width="336" alt="total_summary" src="https://user-images.githubusercontent.com/70616488/125387001-1c816e80-e352-11eb-93d0-e7ab63bc5929.png">
 
-lots_summary
     <img width="492" alt="lots_summary" src="https://user-images.githubusercontent.com/70616488/125387032-24d9a980-e352-11eb-8d18-b327b4ad6d62.png">
 
 - The overall variance is under 100 psi and achieves specifications. But there is a problem with one of the individual lots. 
@@ -53,7 +51,6 @@ lots_summary
 - Also, the p-value is higher than the significant level which we fails to reject the null hypothesis. 
 
 
-summary_for_each_lot
     <img width="564" alt="summary_for_each_lot" src="https://user-images.githubusercontent.com/70616488/125387080-328f2f00-e352-11eb-8e27-c5585a2a8aa6.png">
 
 #### Lot 1 
