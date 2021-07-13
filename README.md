@@ -18,7 +18,8 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 ### Multiple Linear Regression for Predicting MPG 
 
-Multiple_linear_regression_summary<img width="456" alt="Multiple_linear_regression_summary" src="https://user-images.githubusercontent.com/70616488/125386942-007dcd00-e352-11eb-9c9f-88115093678b.png">
+Multiple_linear_regression_summary
+<img width="456" alt="Multiple_linear_regression_summary" src="https://user-images.githubusercontent.com/70616488/125386942-007dcd00-e352-11eb-9c9f-88115093678b.png">
 
 - **Vehicle Length** and **Ground Clearance** are the most significant variables and show non-random effect on the MPG of the MechaCar. 
     - p-values: 
@@ -33,9 +34,11 @@ Multiple_linear_regression_summary<img width="456" alt="Multiple_linear_regressi
 - The r-squared value is 0.7149 indicates that the model is 71% accurate. (It can probably do better). This shows that the model does predict the mpg of the MechaCar prototype and its related effectiveness.
 
 ### Summary Statistics on Suspension Coils 
-total_summary<img width="336" alt="total_summary" src="https://user-images.githubusercontent.com/70616488/125387001-1c816e80-e352-11eb-93d0-e7ab63bc5929.png">
+total_summary
+    <img width="336" alt="total_summary" src="https://user-images.githubusercontent.com/70616488/125387001-1c816e80-e352-11eb-93d0-e7ab63bc5929.png">
 
-lots_summary<img width="492" alt="lots_summary" src="https://user-images.githubusercontent.com/70616488/125387032-24d9a980-e352-11eb-8d18-b327b4ad6d62.png">
+lots_summary
+    <img width="492" alt="lots_summary" src="https://user-images.githubusercontent.com/70616488/125387032-24d9a980-e352-11eb-8d18-b327b4ad6d62.png">
 
 - The overall variance is under 100 psi and achieves specifications. But there is a problem with one of the individual lots. 
 
@@ -50,7 +53,8 @@ lots_summary<img width="492" alt="lots_summary" src="https://user-images.githubu
 - Also, the p-value is higher than the significant level which we fails to reject the null hypothesis. 
 
 
-summary_for_each_lot<img width="564" alt="summary_for_each_lot" src="https://user-images.githubusercontent.com/70616488/125387080-328f2f00-e352-11eb-8e27-c5585a2a8aa6.png">
+summary_for_each_lot
+    <img width="564" alt="summary_for_each_lot" src="https://user-images.githubusercontent.com/70616488/125387080-328f2f00-e352-11eb-8e27-c5585a2a8aa6.png">
 
 #### Lot 1 
 - p-value = 1 --> fails to reject the null hypothesis 
